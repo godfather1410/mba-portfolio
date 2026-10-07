@@ -1,0 +1,136 @@
+SELECTION CHECKLIST - decide what stays in the GitHub repo
+Everything below is currently INCLUDED in GitHub_Portfolio. To drop one, delete its folder and its row in README.md (root + term README).
+Change KEEP to REMOVE as you review.
+
+
+======================================================================
+TERM 1 (MAY-JUL 2026)
+======================================================================
+[KEEP]  T1-01  Term-1/01-excel-financial-and-lookup-functions
+        Excel Financial & Lookup Functions Workbook  (Individual)
+[KEEP]  T1-02  Term-1/02-smdm1-credit-card-descriptive-statistics
+        Credit-Card Customer Descriptive Statistics  (Individual)
+[KEEP]  T1-03  Term-1/03-smdm1-zwigato-bayes-simulation
+        Zwigato Delivery: Bayes' Theorem vs Monte Carlo Simulation  (Individual)
+[KEEP]  T1-04  Term-1/04-smdm1-global-air-quality-distributions
+        Global Air Quality 2014-2025: Probability Distributions (Python)  (Group)
+        ! group work: check teammates are OK with it being public
+[KEEP]  T1-05  Term-1/05-python-sql-eda-ai-prompting
+        Python/SQL Assessment + AI Prompt for Exploratory Data Analysis  (Individual)
+[KEEP]  T1-06  Term-1/06-fadm-singapore-airlines-vs-cathay-pacific
+        Singapore Airlines vs Cathay Pacific: Financial Analysis  (Group)
+        ! group work: check teammates are OK with it being public
+[KEEP]  T1-07  Term-1/07-fadm-akasa-air-financial-forecast
+        Akasa Air: AI-Assisted 3-Year Financial Forecast  (Individual)
+[KEEP]  T1-08  Term-1/08-macro-hero-motocorp-rate-shock-analysis
+        RBI Cuts, Fed Holds: Impact on Hero MotoCorp  (Individual)
+[KEEP]  T1-09  Term-1/09-macro-vietnam-country-report
+        Vietnam Macroeconomic Country Report  (Group)
+        ! group work: check teammates are OK with it being public
+[KEEP]  T1-10  Term-1/10-micro-economics-in-photos
+        Microeconomics in Everyday Photos  (Individual)
+[KEEP]  T1-11  Term-1/11-micro-business-cost-structure-field-study
+        Business Cost Structure Field Study  (Group)
+        ! group work: check teammates are OK with it being public
+        ! the file found looks like a working draft, not a polished final.
+[KEEP]  T1-12  Term-1/12-marketing-truearth-healthy-foods-case
+        TruEarth Healthy Foods: Launch Decision  (Group)
+        ! group work: check teammates are OK with it being public
+[KEEP]  T1-13  Term-1/13-smcf-book-lending-business-plan
+        D2C Book-Lending Service: Marketing Plan  (Individual)
+[KEEP]  T1-14  Term-1/14-managing-self-and-teams-reflection
+        Managing Self & Teams: Reflection  (Individual)
+        ! very personal; usually not portfolio material.
+[KEEP]  T1-15  Term-1/15-ideathon-ai-career-upskilling-concept
+        Ideathon: AI-Driven Career Upskilling Product Concept  (Group)
+        ! group work: check teammates are OK with it being public
+[KEEP]  T1-16  Term-1/16-karma-yoga-rural-healthcare-field-project
+        Karma Yoga: Rural Healthcare Access & Enterprise Development  (Group)
+        ! group work: check teammates are OK with it being public
+        ! mentions real villages and residents; review for privacy.
+
+======================================================================
+TERM 2 (JUL-AUG 2026)
+======================================================================
+[KEEP]  T2-01  Term-2/01-smdm2-ai-skills-for-statistical-inference
+        AI Agent Skills for Statistical Inference (10-session series)  (Individual)
+[KEEP]  T2-02  Term-2/02-smdm2-amazon-order-value-inference
+        From Sample to Decision: Amazon India Order Values  (Group)
+        ! group work: check teammates are OK with it being public
+[KEEP]  T2-03  Term-2/03-storytelling-personal-data-story
+        Personal Data Story: Fixing Repeat Support Tickets  (Individual)
+[KEEP]  T2-04  Term-2/04-storytelling-saffron-and-sage-restaurant
+        Saffron & Sage: 5-Star Reviews, Empty Tables  (Group)
+        ! group work: check teammates are OK with it being public
+        ! file is named 'Perry_the_Platypus.pptx' in your folder; confirm it is the final version.
+[KEEP]  T2-05  Term-2/05-tableau-employee-recognition-dashboard
+        Employee Recognition Analytics Dashboard (Tableau)  (Individual)
+[KEEP]  T2-06  Term-2/06-erp-bpmn-plan-to-produce
+        BPMN Process Model: Plan-to-Produce (Make-to-Order Automaker)  (Individual)
+[KEEP]  T2-07  Term-2/07-erp-odoo-labs-and-module-selection
+        ERP Hands-On Labs (Odoo, SmartBrew) & Module Prioritisation  (Individual)
+[KEEP]  T2-08  Term-2/08-erp-solution-design-auto-components
+        High-Level ERP Solution Design: Auto-Component Manufacturer  (Individual)
+[KEEP]  T2-09  Term-2/09-erp-capstone-tastebuds-odoo
+        ERP Consulting Capstone: TasteBuds Restaurant Chain on Odoo  (Group)
+        ! group work: check teammates are OK with it being public
+[KEEP]  T2-10  Term-2/10-om1-process-analysis-shuttlecock-myfroyoland
+        Process Analysis: Shuttlecock Production & Myfroyoland  (Individual)
+[KEEP]  T2-11  Term-2/11-om1-stonehaven-capacity-case
+        Stonehaven Inc.: Factory Capacity & Throughput  (Group)
+        ! group work: check teammates are OK with it being public
+[KEEP]  T2-12  Term-2/12-product-npd-maggi-reinvented
+        Maggi Reinvented: Kotler's 8-Stage NPD Mapping  (Individual)
+[KEEP]  T2-13  Term-2/13-product-teardown-naukri-notifications
+        Product Teardown: Naukri.com App Notifications  (Individual)
+[KEEP]  T2-14  Term-2/14-marketing-hyperlab-ai-augmented-strategy
+        Hyperlab (Helios): AI-Augmented Marketing Strategy  (Individual)
+[KEEP]  T2-15  Term-2/15-managerial-accounting-kreative-kasuals-pricing
+        Kreative Kasuals: Cost-Based Pricing & ABC  (Group)
+        ! group work: check teammates are OK with it being public
+[KEEP]  T2-16  Term-2/16-smcf2-marketing-case-analyses
+        Marketing Case Analyses: ACK, Asian Paints, London 2012, Planet Milk  (Group)
+        ! group work: check teammates are OK with it being public
+
+======================================================================
+TERM 3 (AUG-SEP 2026)
+======================================================================
+[KEEP]  T3-01  Term-3/01-ba-diabetes-prediction-tree-vs-forest
+        Predicting Diabetes: Decision Tree vs Random Forest  (Individual)
+[KEEP]  T3-02  Term-3/02-ba-digital-ads-clustering
+        Digital Ads Segmentation with Clustering  (Group)
+        ! group work: check teammates are OK with it being public
+[KEEP]  T3-03  Term-3/03-ba-exam-cart-cricket-outcomes
+        CART Model: Predicting India's Match Outcomes  (Individual (exam))
+        ! exam answer: check course rules before publishing
+        ! this is an exam answer; publishing it may conflict with course rules.
+[KEEP]  T3-04  Term-3/04-strategy-ai-augmented-case-analyses
+        Strategy Cases with AI as Sparring Partner (6 cases)  (Individual)
+[KEEP]  T3-05  Term-3/05-strategy-reflection-focus-brands
+        Reflection: The Souled Store, New Balance & LVMH  (Individual)
+[KEEP]  T3-06  Term-3/06-strategy-group-case-analyses-and-meta
+        Strategy Group Cases + Meta Platforms Term Project  (Group)
+        ! group work: check teammates are OK with it being public
+[KEEP]  T3-07  Term-3/07-innovation-sandbox-individual
+        Innovation Sandbox: Post-Mortem, Discovery Interviews & Cab-Availability Project  (Individual)
+[KEEP]  T3-08  Term-3/08-innovation-sandbox-vehicle-service-trust
+        Rebuilding Trust in Vehicle Servicing  (Group)
+        ! group work: check teammates are OK with it being public
+[KEEP]  T3-09  Term-3/09-om2-just-baked-inventory
+        Just Baked: Inventory Management for Perishables  (Individual)
+[KEEP]  T3-10  Term-3/10-om2-acat-mrp-with-ai-audit
+        A-CAT Corp: Multi-Level MRP + AI Audit  (Individual)
+[KEEP]  T3-11  Term-3/11-om2-mototech-quality-control
+        MotoTech Manufacturing: Process Control & Capability  (Individual)
+[KEEP]  T3-12  Term-3/12-om2-skoda-kushaq-integrated-operations-plan
+        Skoda Kushaq: Integrated Operations Plan  (Group)
+        ! group work: check teammates are OK with it being public
+[KEEP]  T3-13  Term-3/13-cf-liz-motor-esg-capital-budgeting
+        Liz Motor Corp: Capital Budgeting for an ESG Project  (Individual)
+[KEEP]  T3-14  Term-3/14-cf-wacc-and-time-value-cases
+        Domino's Pizza WACC + Time-Value-of-Money Cases  (Group)
+        ! group work: check teammates are OK with it being public
+[KEEP]  T3-15  Term-3/15-genai-token-efficient-sales-analytics-prompt
+        One Prompt, Five Reports: Token-Efficient Sales Analytics  (Individual)
+[KEEP]  T3-16  Term-3/16-genai-turnaround-audit-multi-agent
+        Turnaround Audit Assistant: Multi-Agent Skills System  (Individual (classwork))

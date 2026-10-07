@@ -1,0 +1,481 @@
+PGPM ASSIGNMENT CATALOGUE - Naman Jain (Great Lakes, PGPM 2026-27)
+Source folder: D:\G L I M C   |   48 assignments found across Term 1-3
+Use the ID to tell Claude which ones to upload. [ ] = not yet chosen.
+
+==============================================================================
+TERM 1
+==============================================================================
+
+[ ] T1-01  Excel Financial & Lookup Functions Workbook
+    Course : Excel Workshop   |   Type: Individual
+    Practice cases on Excel financial functions (PMT, PPMT, IPMT, FV)
+    covering loans, balloon payments, payment timing and investment goals;
+    lookup-function exercises on a retail product/supplier master
+    (ZenithMart); a loan-portfolio analysis workspace for a fictional bank
+    (IndiaFirst Commercial Bank); and descriptive statistics on an
+    insurance dataset.
+    Skills : Excel financial functions, XLOOKUP / INDEX-MATCH, descriptive statistics
+    Files  : Financial_Functions_Answers.docx, Financial_Functions.xlsx, ZenithMart_Lookup_Functions.xlsx, IndiaFirst_Bank_Loan_Analysis.xlsx, Insurance_Descriptive_Stats.xlsx
+
+[ ] T1-02  Credit-Card Customer Descriptive Statistics
+    Course : Statistical Methods for Decision Making (SMDM-1)   |   Type: Individual
+    Acting as a bank analyst on a 400-customer credit-card dataset
+    (income, limit, rating, cards, age, education, region): mean,
+    quartiles, IQR and standard deviation, outlier checks, pivot summaries
+    by region and charts, interpreted for managerial decisions.
+    Skills : Descriptive statistics, data visualisation, Excel pivots
+    Files  : Report.docx, Analysis.xlsx
+
+[ ] T1-03  Zwigato Delivery: Bayes' Theorem vs Monte Carlo Simulation
+    Course : Statistical Methods for Decision Making (SMDM-1)   |   Type: Individual
+    Estimated P(Delay | Complaint) for a food-delivery platform
+    analytically with Bayes' theorem (0.4375) and empirically with Excel
+    RAND() simulations of 100, 1,000 and 5,000 orders, showing how the
+    relative frequency converges to the theoretical value and what a
+    complaint really tells a manager about delays.
+    Skills : Conditional probability, Bayes' rule, Monte Carlo simulation in Excel
+    Files  : Report.pdf, Zwigato_Simulation.xlsx
+
+[ ] T1-04  Global Air Quality 2014-2025: Probability Distributions (Python)
+    Course : Statistical Methods for Decision Making (SMDM-1)   |   Type: Group
+    Python (pandas, seaborn) analysis of a global air-quality dataset:
+    distributions of AQI, PM2.5, wind speed and humidity, skewness, AQI-
+    category frequencies and empirical-vs-theoretical distribution
+    comparison. Only the analysis script was found; the 67 MB dataset is
+    not included (link the public source instead).
+    Skills : Python, pandas, seaborn, probability distributions
+    Files  : smdm_group_assignment.py
+
+[ ] T1-05  Python/SQL Assessment + AI Prompt for Exploratory Data Analysis
+    Course : Python & SQL Workshop   |   Type: Individual
+    Answers to the Python and SQL data assessments (missing values,
+    customer distribution, row counts on raw customer/order tables) and an
+    AI component: designing a comprehensive, reusable prompt that makes an
+    AI assistant run a complete EDA in Python and in SQL (data quality,
+    statistical profile, business insights, edge cases).
+    Skills : Python, SQL, EDA, prompt engineering
+    Files  : AI_EDA_Prompts.docx, Python_Answers.xlsx, SQL_Answers.xlsx
+
+[ ] T1-06  Singapore Airlines vs Cathay Pacific: Financial Analysis
+    Course : Financial Accounting for Decision Making (FADM)   |   Type: Group
+    Comparative financial-statement analysis of two premium Asian
+    airlines: company and competitor overview, business segments, five-
+    year revenue and expense trends (converted to INR), acquisitions and
+    financing (incl. the Air India-Vistara merger), and an executive Excel
+    workbook comparing headline metrics and ratios.
+    Skills : Financial statement analysis, ratio analysis, Excel modelling
+    Files  : Part1_Report.pdf, Acquisitions_Investments_Financing.docx, SIA_vs_Cathay_Workbook.xlsx, Revenue_Expense_Trends.xlsx
+
+[ ] T1-07  Akasa Air: AI-Assisted 3-Year Financial Forecast
+    Course : Financial Accounting for Decision Making (FADM)   |   Type: Individual
+    Three-year (FY2026-27 to FY2028-29) financial forecast for Akasa Air
+    (SNV Aviation Pvt Ltd) built in Excel with AI assistance: summary
+    dashboard, projected statements and the prompt used, with forecasts
+    clearly labelled as projections.
+    Skills : Financial forecasting, Excel dashboards, AI-assisted modelling
+    Files  : Akasa_Air_Forecast.xlsx
+
+[ ] T1-08  RBI Cuts, Fed Holds: Impact on Hero MotoCorp
+    Course : Managerial Economics (Macro)   |   Type: Individual
+    Board-ready assessment of how an RBI repo cut, a Fed hold, rupee
+    depreciation, FII outflows and high commodity prices transmit to Hero
+    MotoCorp's input costs, EV investment and two-wheeler demand. Includes
+    the verbatim AI prompt, an own-words summary and a critique of the AI
+    output.
+    Skills : Macroeconomic analysis, monetary-policy transmission, AI critique
+    Files  : Report.pdf
+
+[ ] T1-09  Vietnam Macroeconomic Country Report
+    Course : Managerial Economics (Macro)   |   Type: Group
+    Slide deck on Vietnam: socio-political-economic overview, macro
+    performance FY2022-25 with 2026-27 forecasts (growth, inflation,
+    unemployment, trade), three macroeconomic difficulties and remedial
+    policy measures, with an AI-prompt appendix. Sources: World Bank, IMF,
+    OECD, GSO Vietnam.
+    Skills : Macroeconomics, policy analysis, presentation
+    Files  : Vietnam_Country_Report.pptx
+
+[ ] T1-10  Microeconomics in Everyday Photos
+    Course : Managerial Economics (Micro)   |   Type: Individual
+    Identified microeconomic concepts in real-world photographs (e.g.
+    Veblen goods and conspicuous consumption, factors of production,
+    economies of scale) and compared my explanation with an AI tool's
+    interpretation.
+    Skills : Microeconomic reasoning, applied examples
+    Files  : Report.docx
+
+[ ] T1-11  Business Cost Structure Field Study
+    Course : Managerial Economics (Micro)   |   Type: Group
+    Field study of a local transport business: AI-estimated cost structure
+    vs owner interview, fixed vs variable costs, and AFC/AVC/ATC/MC curves
+    against output. NOTE: the file found looks like a working draft, not a
+    polished final.
+    Skills : Cost curves, field research
+    Files  : Report_draft.docx
+
+[ ] T1-12  TruEarth Healthy Foods: Launch Decision
+    Course : Strategic Marketing & Customer Focus (SMCF-1)   |   Type: Group
+    Case analysis on whether and how TruEarth should launch a whole-grain
+    pizza ahead of competitor Rigazzi: PESTEL, issues-vs-fixes and a
+    phased roll-out recommendation with supporting numbers.
+    Skills : Marketing strategy, PESTEL, go-to-market
+    Files  : Report.docx, TruEarth.xlsx
+
+[ ] T1-13  D2C Book-Lending Service: Marketing Plan
+    Course : Strategic Marketing & Customer Focus (SMCF-1)   |   Type: Individual
+    Marketing plan for a direct-to-consumer book-lending business tied up
+    with local libraries (web + app): target segments, value proposition,
+    pricing plan and customer journey.
+    Skills : Marketing planning, segmentation, pricing
+    Files  : Report.docx
+
+[ ] T1-14  Managing Self & Teams: Reflection
+    Course : Managing Self & Teams   |   Type: Individual
+    Personal reflection answers on leadership readiness, giving difficult
+    feedback, team dynamics and self-awareness. NOTE: very personal;
+    usually not portfolio material.
+    Skills : Self-reflection, leadership
+    Files  : Reflection.docx
+
+[ ] T1-15  Ideathon: AI-Driven Career Upskilling Product Concept
+    Course : Ideathon   |   Type: Group
+    Product concept for a learner-retention problem: customer insights and
+    personas, an AI onboarding diagnostic that builds personalised sprint
+    plans, peer pods with leaderboards, and career-linked levels.
+    Skills : Product thinking, personas, concept design
+    Files  : Ideathon_Deck.pptx
+
+[ ] T1-16  Karma Yoga: Rural Healthcare Access & Enterprise Development
+    Course : Karma Yoga (Field Project)   |   Type: Group
+    Field project in Tamil Nadu villages: standard operating procedure for
+    the team, village profile from the first field visit, and the filled
+    project write-up on healthcare outreach and livelihood opportunities.
+    NOTE: mentions real villages and residents; review for privacy.
+    Skills : Field research, social impact, project planning
+    Files  : Project_SOP.docx, Field_Visit_Day1.docx, Project_Writeup.docx
+==============================================================================
+TERM 2
+==============================================================================
+
+[ ] T2-01  AI Agent Skills for Statistical Inference (10-session series)
+    Course : Statistical Methods for Decision Making (SMDM-2)   |   Type: Individual
+    Built and applied a library of AI-agent skills in Google Antigravity,
+    one per session: sample point estimator, confidence-interval builder,
+    hypothesis framer, Type II error / power analyzer, p-value vs
+    critical-value decision maker, two-population t-tester, one-way ANOVA
+    with Fisher's LSD, simple and multiple regression (with VIF), and
+    regression diagnostics (quadratic fit, Cook's distance, Durbin-
+    Watson). Each skill is applied to a business case and ends in a
+    managerial decision. Also includes a Session 6 review that
+    independently re-verified six hypothesis tests (Nandan Mart case).
+    Skills : Hypothesis testing, ANOVA, regression, agentic AI skill design
+    Files  : S01_Sampling_Point_Estimates.pdf, S02_Confidence_Intervals.pdf, S03_Hypothesis_Framing.docx, S04_Type2_Error_Power.docx, S05_Decision_Rules.docx, S06_Two_Sample_t_Test.docx ...
+
+[ ] T2-02  From Sample to Decision: Amazon India Order Values
+    Course : Statistical Methods for Decision Making (SMDM-2)   |   Type: Group
+    Does Amazon.in's average order value match finance's planning figure,
+    and does it differ by fulfilment channel? Used 118,833 orders from the
+    public Kaggle Amazon Sale Report (2022): random sampling, confidence
+    intervals, hypothesis framing, power analysis and t-tests, all
+    executed through AI-agent skills and verified by the team.
+    Skills : Statistical inference, sampling, t-tests, AI-assisted analysis
+    Files  : Report.pdf, Figures.xlsx
+
+[ ] T2-03  Personal Data Story: Fixing Repeat Support Tickets
+    Course : Storytelling with Data   |   Type: Individual
+    Short data story from my ServiceNow support role: noticing that 3-4 of
+    10-15 daily tickets were repeats (~80 a month), finding the root cause
+    and changing how the team measured success. Written script plus audio
+    narration.
+    Skills : Data storytelling, root-cause analysis
+    Files  : Story_Script.docx, Story_Audio.m4a
+
+[ ] T2-04  Saffron & Sage: 5-Star Reviews, Empty Tables
+    Course : Storytelling with Data   |   Type: Group
+    Final group presentation for the COO of a fictional 12-outlet
+    restaurant chain where Google ratings rose (4.52 to 4.68) while
+    footfall fell 23%. The deck interrogates the data (measurement,
+    external factors, new vs returning guests, what ratings really
+    measure) and recommends where to put a Rs 1.2 crore turnaround budget.
+    NOTE: file is named 'Perry_the_Platypus.pptx' in your folder; confirm
+    it is the final version.
+    Skills : Data storytelling, synthetic data design, executive presentation
+    Files  : Saffron_and_Sage_Presentation.pptx
+
+[ ] T2-05  Employee Recognition Analytics Dashboard (Tableau)
+    Course : Tableau Visual Analytics   |   Type: Individual
+    Interactive Tableau dashboard on 1,226 employee recognitions: KPI
+    tiles, 3-year volume/value trend with forecast, reward-value
+    distribution, recognitions by department vs average, a business-unit x
+    recognition-type heatmap and an India state map of volume x
+    satisfaction.
+    Skills : Tableau, dashboard design, visual analytics
+    Files  : Employee_Recognition_Dashboard.twbx, dashboard.png
+
+[ ] T2-06  BPMN Process Model: Plan-to-Produce (Make-to-Order Automaker)
+    Course : ERP & Industry 4.0   |   Type: Individual
+    Business-analyst style documentation of a make-to-order Plan-to-
+    Produce process for a luxury automaker ('Premium Auto Ltd.'): BPMN
+    diagram with swimlanes, business rules, process table and report.
+    Skills : BPMN 2.0, process mapping, business analysis
+    Files  : Report.pdf, PlanToProduce.bpm, Process_Table.xlsx, Business_Rules.xlsx, PlanToProduce_Lucid.json
+
+[ ] T2-07  ERP Hands-On Labs (Odoo, SmartBrew) & Module Prioritisation
+    Course : ERP & Industry 4.0   |   Type: Individual
+    Screenshot evidence of configuring and running transactions in Odoo
+    ERP (three activities) and the SmartBrew ERP simulation lab, plus a
+    short assignment ranking the five ERP modules that matter most for a
+    multi-plant industrial manufacturer.
+    Skills : Odoo ERP, ERP module selection
+    Files  : Odoo_Lab.pdf, SmartBrew_Simulation_Lab.pdf, ERP_Module_Prioritisation.pdf
+
+[ ] T2-08  High-Level ERP Solution Design: Auto-Component Manufacturer
+    Course : ERP & Industry 4.0   |   Type: Individual
+    End-to-end high-level ERP solution design for an illustrative auto-
+    component maker (Bburago Group, hypothetical) on Oracle Fusion Cloud
+    ERP/SCM: business requirements, module map, key process flows,
+    integrations, data migration, Industry 4.0 hooks and implementation
+    roadmap.
+    Skills : ERP solution architecture, Oracle Fusion Cloud, manufacturing processes
+    Files  : Report.pdf
+
+[ ] T2-09  ERP Consulting Capstone: TasteBuds Restaurant Chain on Odoo
+    Course : ERP & Industry 4.0   |   Type: Group
+    ERP consulting engagement for a multi-branch restaurant chain: company
+    profile, Odoo solution design (POS, inventory, purchase, accounting,
+    HR) on a multi-company architecture, BPMN models for Order-to-Cash,
+    Procure-to-Pay and Ticket-to-Table, a module setup guide and the
+    client presentation. The 103 MB demo video is excluded (too large for
+    GitHub; link it from YouTube/Drive if wanted).
+    Skills : Odoo ERP, BPMN, consulting deliverables
+    Files  : 01_Company_Profile.pdf, 02_Solution_Design.pdf, 03_Odoo_Module_Setup_Guide.pdf, 04_Presentation.pdf, bpmn/order_to_cash.png, bpmn/procure_to_pay.png ...
+
+[ ] T2-10  Process Analysis: Shuttlecock Production & Myfroyoland
+    Course : Operations Management I   |   Type: Individual
+    (1) AI-assisted extraction of a process map from a video of handmade
+    shuttlecock production: steps, resources, run times, buffers,
+    sequential vs parallel flow, with a strict 'only what is stated'
+    prompt. (2) Mid-term case Myfroyoland: process flow diagram, capacity
+    at each stage, bottleneck identification (single weigh-and-pay
+    counter, 72 customers/hour) and improvement options. The 108 MB
+    process-map PDF is excluded.
+    Skills : Process analysis, capacity & bottlenecks, AI prompting
+    Files  : Shuttlecock_Process_Map.docx, Myfroyoland_Midterm.docx
+
+[ ] T2-11  Stonehaven Inc.: Factory Capacity & Throughput
+    Course : Operations Management I   |   Type: Group
+    Capacity and throughput-time analysis for a shoe factory (single
+    shift, 40-pair batches, die changeovers in cutting): daily output
+    capacity and total time for a batch to flow through the plant.
+    Skills : Capacity analysis, batching, setup times
+    Files  : Report.docx
+
+[ ] T2-12  Maggi Reinvented: Kotler's 8-Stage NPD Mapping
+    Course : Product Management   |   Type: Individual
+    Mapped Nestle India's Maggi portfolio expansion (millets, Korean
+    flavours, rural price points, quick-commerce) onto Kotler's eight-
+    stage new product development process, stage by stage, with critique.
+    Skills : New product development, product strategy
+    Files  : Report.docx
+
+[ ] T2-13  Product Teardown: Naukri.com App Notifications
+    Course : Product Management   |   Type: Individual
+    Product teardown of Naukri.com's notification system: company context,
+    user segments and journeys, notification types, pain points and
+    prioritised recommendations. The 47 MB video walkthrough is excluded
+    (link it externally if wanted).
+    Skills : Product teardown, UX critique, prioritisation
+    Files  : Teardown.pdf
+
+[ ] T2-14  Hyperlab (Helios): AI-Augmented Marketing Strategy
+    Course : Strategic Marketing & Customer Focus (SMCF-2)   |   Type: Individual
+    Marketing strategy for a sports-tech company selling biomechanical
+    tracking systems: 5C analysis separating B2B institutions from B2C
+    athletes, positioning and portfolio diagnosis, with AI-generated
+    drafts and my own analysis shown side by side.
+    Skills : Marketing strategy, B2B/B2C segmentation, AI-augmented analysis
+    Files  : Report.docx
+
+[ ] T2-15  Kreative Kasuals: Cost-Based Pricing & ABC
+    Course : Cost & Managerial Accounting   |   Type: Group
+    Cost-plus pricing for trouser and cargo product lines (base price,
+    full cost, normal selling price) and overhead allocation by department
+    vs activity-based costing, plus my individual note on contribution and
+    learning (AI-reconciled numbers, corrected AI hallucinations).
+    Skills : Costing, pricing, activity-based costing
+    Files  : Kreative_Kasuals_Answers.xlsx, Cost_Workings.xlsx, Contribution_and_Learning.docx
+
+[ ] T2-16  Marketing Case Analyses: ACK, Asian Paints, London 2012, Planet Milk
+    Course : Strategic Marketing & Customer Focus (SMCF-2)   |   Type: Group
+    Four group case write-ups: Amar Chitra Katha's quest for growth in a
+    digital world, Asian Paints' Beautiful Homes Painting Service, London
+    2012 Olympics ticket pricing, and Planet Milk's route-to-market (with
+    workings). Each covers case summary, core problem, options and
+    recommendation.
+    Skills : Marketing strategy, pricing, channel design
+    Files  : Amar_Chitra_Katha.docx, Asian_Paints_BHPS.docx, London_2012_Olympics.docx, Planet_Milk.docx, Planet_Milk_Route_to_Market.xlsx
+==============================================================================
+TERM 3
+==============================================================================
+
+[ ] T3-01  Predicting Diabetes: Decision Tree vs Random Forest
+    Course : Business Analytics   |   Type: Individual
+    Classification on the public Pima diabetes dataset (768 patients, 35%
+    positive): spotting implausible zeros and imputing instead of dropping
+    49% of rows, stratified split, class weighting, decision tree vs
+    random forest comparison, feature importance and decision-threshold
+    tuning for screening.
+    Skills : Python, scikit-learn, classification, model evaluation
+    Files  : diabetes_classification.ipynb, Report.docx, data/diabetes.csv
+
+[ ] T3-02  Digital Ads Segmentation with Clustering
+    Course : Business Analytics   |   Type: Group
+    Segmented 25,857 digital ad records by CTR, CPM and CPC for an ad-tech
+    firm: rebuilt missing derived metrics from raw fields, fixed a CTR
+    unit inconsistency, treated outliers, z-score scaling, hierarchical
+    (Ward) clustering and K-means with elbow and silhouette checks, then
+    profiled clusters into marketing recommendations.
+    Skills : Python, clustering (hierarchical, K-means), marketing analytics
+    Files  : ads_clustering.ipynb, Report.pdf, data/ads_data.xlsx
+
+[ ] T3-03  CART Model: Predicting India's Match Outcomes
+    Course : Business Analytics   |   Type: Individual (exam)
+    Exam submission: CART classification model predicting India's cricket
+    match outcomes (one-hot encoding, 70:30 split, Gini tree, pruning,
+    evaluation). NOTE: this is an exam answer; publishing it may conflict
+    with course rules.
+    Skills : Python, decision trees
+    Files  : cart_model.ipynb, Report.pdf, decision_tree.dot
+
+[ ] T3-04  Strategy Cases with AI as Sparring Partner (6 cases)
+    Course : Strategic Management   |   Type: Individual
+    Six individual case analyses where AI was used as a critic, not an
+    author: anonymised prompts, AI pushback and my final recommendation
+    for Allentown Materials (organisational conflict), Thyrocare
+    (disruptive business model), Stitch Fix (blue ocean + AI), Palantir
+    (decisions aligned with values), Reliance Industries (execution
+    excellence) and Schindler India (international market entry).
+    Skills : Strategic analysis, frameworks, critical use of AI
+    Files  : 01_Allentown_Materials.docx, 02_Thyrocare.docx, 03_Stitch_Fix_Blue_Ocean_AI.docx, 04_Palantir.docx, 05_Reliance_Industries.docx, 06_Schindler_India.docx
+
+[ ] T3-05  Reflection: The Souled Store, New Balance & LVMH
+    Course : Strategic Management   |   Type: Individual
+    Reflection paper on three very different brands that each chose a
+    narrow customer, refused to chase everyone, and built hard-to-copy
+    advantages behind that choice.
+    Skills : Competitive strategy, writing
+    Files  : Reflection.docx
+
+[ ] T3-06  Strategy Group Cases + Meta Platforms Term Project
+    Course : Strategic Management   |   Type: Group
+    Group case decks: Starbucks (Howard Schultz), IBM dynamic
+    capabilities, Honda's US market entry, Satyam governance failure, 'Who
+    is a Professional?' and ICF's Vande Bharat launch; plus the term
+    project on Meta Platforms: industry structure, competitive position
+    and business strength.
+    Skills : Industry analysis, Five Forces, governance, leadership
+    Files  : 00_Meta_Platforms_Term_Project.docx, 01_Starbucks.pdf, 02_IBM_Dynamic_Capabilities.pdf, 03_Honda_US_Entry.pptx, 04_Satyam_Governance.pdf, 05_Who_Is_a_Professional.pdf ...
+
+[ ] T3-07  Innovation Sandbox: Post-Mortem, Discovery Interviews & Cab-Availability Project
+    Course : Innovation Sandbox   |   Type: Individual
+    Hike Messenger failure post-mortem (wrong problem / customer /
+    timing), three customer-discovery interviews on EV range and charging
+    in Delhi-NCR, innovation mapping for The Souled Store (type, mode,
+    ocean), and a design-thinking project on peak-hour cab availability
+    for office commuters in Noida.
+    Skills : Customer discovery, design thinking, innovation frameworks
+    Files  : 01_Hike_PostMortem.docx, 02_Customer_Interviews_EV.docx, 03_Souled_Store_Innovations.docx, 04_Cab_Availability_Project.pdf
+
+[ ] T3-08  Rebuilding Trust in Vehicle Servicing
+    Course : Innovation Sandbox   |   Type: Group
+    Full design-thinking cycle on why urban Indian car owners distrust
+    authorised service centres: empathise, sharp problem statement,
+    ideation with six triggers and assumption busting, prototype (live
+    service-status link and proactive cost updates), test and scale plan.
+    Skills : Design thinking, prototyping, service design
+    Files  : Phase1_Problem.pdf, Phase2_Report.pdf, Final_Presentation.pdf
+
+[ ] T3-09  Just Baked: Inventory Management for Perishables
+    Course : Operations Management II   |   Type: Individual
+    Inventory policy for a cupcake chain where unsold stock is thrown out
+    daily: newsvendor model (cost of under/over-stocking, critical ratio),
+    and periodic vs continuous review policies for ingredients.
+    Skills : Newsvendor model, inventory policy
+    Files  : Report.docx
+
+[ ] T3-10  A-CAT Corp: Multi-Level MRP + AI Audit
+    Course : Operations Management II   |   Type: Individual
+    8-week material requirements plan for a three-level bill of materials
+    (P0110 family) with lead times and on-hand stock, then an AI-augmented
+    audit: checking an AI-generated MRP against mine, refining the prompt,
+    and questioning whether fixed lot sizes should be revisited using the
+    cost data.
+    Skills : MRP, lot sizing, AI verification
+    Files  : MRP_Solution.docx, AI_Augmented_MRP_Audit.docx, MRP_Matrix.xlsx
+
+[ ] T3-11  MotoTech Manufacturing: Process Control & Capability
+    Course : Operations Management II   |   Type: Individual
+    Case on a supplier facing a drastically tightened customer
+    specification: control charts, process capability against the new
+    spec, root causes and an improvement plan, with Excel workings.
+    Skills : Statistical process control, process capability
+    Files  : Report.docx, Workings.xlsx
+
+[ ] T3-12  Skoda Kushaq: Integrated Operations Plan
+    Course : Operations Management II   |   Type: Group
+    Term project acting as Skoda's internal OM team: 8-month hybrid
+    aggregate production plan for 12,500 units, master production
+    schedule, 4-level MRP (vehicle, engine/chassis/body, parts) and an
+    inventory policy for a key purchased part, with all workings in Excel.
+    Skills : Aggregate planning, MPS, MRP, inventory policy
+    Files  : Report.pdf, Workings.xlsx
+
+[ ] T3-13  Liz Motor Corp: Capital Budgeting for an ESG Project
+    Course : Corporate Finance   |   Type: Individual
+    Is an $800M EV/ESG project worth it? Qualitative positioning, hurdle-
+    rate choice, NPV/IRR on base-case cash flows and scenario analysis, in
+    Excel with a written answer set.
+    Skills : Capital budgeting, NPV/IRR, scenario analysis
+    Files  : Liz_Motor_Model.xlsx, Case_Answers.docx
+
+[ ] T3-14  Domino's Pizza WACC + Time-Value-of-Money Cases
+    Course : Corporate Finance   |   Type: Group
+    Weighted average cost of capital for Domino's Pizza Enterprises (cost
+    of equity, cost of debt, capital-structure weights from exhibits), and
+    a workbook of applied time-value cases (ESOP buyback, child education
+    fund, home-loan prepayment, lump sum vs SIP).
+    Skills : WACC, CAPM, time value of money
+    Files  : Dominos_WACC.xlsx, Time_Value_Cases.xlsx
+
+[ ] T3-15  One Prompt, Five Reports: Token-Efficient Sales Analytics
+    Course : Introduction to Generative AI   |   Type: Individual
+    Designed one reusable, token-minimised prompt that makes an LLM
+    produce five management reports from a sales dataset by chaining roles
+    (regional analyst, product analyst, ... strategist), each handing its
+    finished report to the next; with design rationale and token trade-
+    offs.
+    Skills : Prompt engineering, LLM workflow design
+    Files  : Report.pdf
+
+[ ] T3-16  Turnaround Audit Assistant: Multi-Agent Skills System
+    Course : Introduction to Generative AI   |   Type: Individual (classwork)
+    Multi-agent assistant that turns a company annual report into a
+    360-degree turnaround audit: three skills (financial audit, market
+    intelligence, risk assessment) each with SKILL.md, reference
+    thresholds, report templates and Python scripts (ratios, benchmark
+    gaps, risk scores), an orchestration workflow, and sample outputs for
+    a fictional RetailCorp.
+    Skills : Agentic AI, skill design, Python
+    Files  : README.md, Agents.md, SkillRegistry.md, workflows/turnaround-audit.md, skills/financial-audit/SKILL.md, skills/financial-audit/assets/audit_report_template.md ...
+
+==============================================================================
+NOT INCLUDED (found but deliberately left out)
+==============================================================================
+- Faculty material: case PDFs (HBS/Ivey/INSEAD), slides, textbooks, instructions - copyrighted, not your work.
+- Classmates' files found in your folders (e.g. A3_FT272047, FT272004_Section2, FT272063_Section2, FT272080_SECTION2, Section_2_FT272076_Stitch_Fix).
+- Resumes / CV (BrowserStack.pdf, Naman_FT272022_Resume.pdf) - personal data, keep off a public repo.
+- Story_Audio_Assignment.docx - introduces someone named 'Jinvani Paras', not you.
+- Rough notes and AI explainer drafts (ather energy, nike, marketing, FADM Presentation for me, accounting formula notes, Strategy exam notes).
+- Earlier drafts/duplicates (erp_draft1/2, Bburago Dynamics 365 version, Porsche_911 BPMN draft, older notebooks).
+- Oversize media: ERP demo video (103 MB), shuttlecock process PDF (108 MB), product teardown video (47 MB), air-quality dataset (67 MB).
+- Templates the course handed out unfilled (Python/SQL assessment notebooks, MRP templates).
