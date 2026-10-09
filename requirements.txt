@@ -1,0 +1,7 @@
+numpy
+opencv-python
+dxcam
+mss
+tqdm
+# PyTorch is installed separately - see README (RTX 50-series needs a CUDA 12.8+ build):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
