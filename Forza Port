@@ -1,0 +1,15 @@
+SELECTION_CHECKLIST.txt
+capture.py
+collect_data.py
+config.py
+data_preview.jpg
+inputs.py
+inspect_data.py
+model.py
+play.py
+requirements.txt
+telemetry.py
+test.png
+test_keys.py
+test_telemetry.py
+train.py
