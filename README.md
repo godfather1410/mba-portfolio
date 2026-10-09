@@ -1,5 +1,4 @@
-# Forza Horizon 6 self-driving (port of Sentdex's pygta5, 2017 pipeline)
-
+# Forza Horizon 6 self-driving
 **Status:** the code compiles and the training pipeline was run end-to-end on
 synthetic data. It has **not** been run against the real game: capture, key
 sending and driving quality are untested until you try them.
